@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on chatbots and building APIs at [a Take Blip](https://github.com/takenet)
-- 🎓 I'm studying computer science in UFPR [a DINF](https://web.inf.ufpr.br/dinf/)
+- 🔭 I’m currently working on chatbots and building APIs at [Take Blip](https://github.com/takenet)
+- 🎓 I'm studying computer science in [UFPR](https://web.inf.ufpr.br/dinf/)
 - ⚡ I'm work with C#, C, React and JS/TS
 - 📫 How to reach me: pmartinsesa@gmail.com
 <!--
