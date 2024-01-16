@@ -1,6 +1,6 @@
 ### Hey you 👋, my name is Pedro 🤓
-- 🔭 I’m currently working on chatbots and building APIs at [Take Blip](https://github.com/takenet)
-- 🎓 I'm studying computer science at [UFPR](https://web.inf.ufpr.br/dinf/)
+- 🔭 I’m currently working on chatbots and building APIs at [Sinqia]([https://github.com/takenet](https://github.com/sinqia))
+- 🎓 I'm graduated computer science at [UFPR](https://web.inf.ufpr.br/dinf/)
 - ⚡ I'm working with C#, C, React and JS/TS
 
 ##
