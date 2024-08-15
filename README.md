@@ -1,8 +1,8 @@
 ### Hey you 👋, my name is Pedro 🤓
-- 🔭 I’m currently working on chatbots at [Sinqia](https://github.com/sinqia)
+- 🔭 I’m currently working as C# backend developer at [Invillia](https://github.com/Invillia)
 - 🎓 I'm graduated computer science at [UFPR](https://web.inf.ufpr.br/dinf/)
 - 🕹️ I'm building some games in Unity
-- ⚡ I'm working with C#, C, React and JS/TS
+- ⚡ I'm working with C#, React and JS/TS
 
 ##
 
